@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Droid+Serif');
+
+.footer-col-1 {
+  text-align: left;
+  width: 30%;
+}
+
+.footer-col-2 {
+  text-align: right;
+  width: 30%;
+}
+
+.footer-col-3 {
+  text-align: right;
+  width: 30%;
+}
+
+.site-footer {
+  padding: 10px 0 0 0;
+}
+
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+.post p {
+  font-family: 'Droid Serif', serif;
+}
+
+.post a {
+  font-family: 'Droid Serif', serif;
+}
