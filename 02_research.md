@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 I do Condensed Matter Theory research at the Physics Department of Michigan State University with my advisor [Mark Dykman](http://www.pa.msu.edu/~dykman/). Below 
-you can read about two major fields I am interested in.
+are descriptions of two major fields I am interested in.
 
 <h2>Nonlinearities in micro- and nanomechanical systems </h2>
 ![Length Extension Mode](/_pics/LE-3d.png)  ![Conduction band valleys in Si](/_pics/valleys_nonequivalent_small.png)
