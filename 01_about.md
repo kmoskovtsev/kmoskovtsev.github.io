@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Profile Picture](/assets/IMG-6067-3.png)
+![Profile Picture](/assets/profile.png)
 
 I'm a Physics PhD student at Michigan State University with a focus in Condensed Matter Theory.
 I greatly enjoy learning and applying my knowledge to solve challenging problems. Learning is my lifestyle.
