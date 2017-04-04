@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 ![Profile Picture](/assets/LE-3d.png)
 
 I'm a Physics PhD student at Michigan State University with a focus in Condensed Matter Theory.
