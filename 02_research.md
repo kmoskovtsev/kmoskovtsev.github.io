@@ -7,8 +7,6 @@ I do Condensed Matter Theory research at the Physics Department of Michigan Stat
 are descriptions of two major fields I am interested in.
 
 <h2>Nonlinearities in micro- and nanomechanical systems </h2>
-![Length Extension Mode](/_pics/LE-3d.png)  ![Conduction band valleys in Si](/_pics/valleys_nonequivalent_small.png)
-
 Micro- and nanoelectromechanical systems (MEMS and NEMS) usually consist of a tiny vibrational device and some electric circuitry. They may be small enough to 
 see quantum phenomena but large enough to be measured individually. They are also extremely sensitive to small external forces. That is why these systems are 
 extensively studied and widely used as sensors in industry. An important feature of MEMS and NEMS is their nonlinearity which is typically strong. 
